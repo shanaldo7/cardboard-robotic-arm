@@ -20,4 +20,9 @@ Elbow servo → D3
 Shoulder servo → D4
 Gripper servo → D5
 adruino gnd to breadboard gnd
-adruino 5v to breadboard +
+adruino 5v to breadboard vcc+
+
+## Tinkercad Simulation
+
+[Tinkercad Circuit](https://www.tinkercad.com/things/aylk46aRcMg-funky-uusam-crift?sharecode=Iq4jlsi7g1UcXUEjlHhhh1Umh8Yaxff6uk7P-TNPEcU)
+
